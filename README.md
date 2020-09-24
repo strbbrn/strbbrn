@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strbbrn" alt="strbbrn" /> </p>
 
-- 💬 Ask me about **Flutter,PHP,JS,Computer Network**
+- 💬 Ask me about **Flutter, PHP, JS, Computer Network**
 
 - 📫 How to reach me **skybirdwebmedia@gmail.com**
 
