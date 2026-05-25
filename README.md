@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
-<h3 align="center">🚀 A passionate Flutter & DevSecOps Enthusiast from India</h3>
+<h3 align="center">🚀 A passionate AI & DevSecOps Engineer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=strbbrn&label=Profile%20views&color=0e75b6&style=flat" alt="strbbrn" />
@@ -7,10 +7,10 @@
 
 ---
 
-- 💻 I’m currently working on **Flutter-based mobile apps**
+- 💻 I’m currently working on **AI-Led Cybersecurity strategies**
 - 🔐 I’m learning and building in **DevSecOps, Secure SDLC, and cloud security**
-- 🌱 Actively exploring **CI/CD security, SBOM, SCA, SAST, and Kubernetes hardening**
-- 💬 Ask me about **Flutter, PHP, JS, DevSecOps, Computer Networks**
+- 🌱 Actively exploring **CI/CD security, SBOM, SCA, SAST, and IAC hardening**
+- 💬 Ask me about **AI, PHP, JS, DevSecOps, CyberSecurity**
 - 📫 Reach me at **skybirdwebmedia@gmail.com**
 
 ---
@@ -85,18 +85,16 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=strbbrn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strbbrn&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=strbbrn&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
-
-<h4 align="center">📂 Check out my DevSecOps Projects (Coming Soon)</h4>
