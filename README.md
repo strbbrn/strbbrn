@@ -3,11 +3,16 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=strbbrn&label=Profile%20views&color=0e75b6&style=flat" alt="strbbrn" />
+  <br><br>
+  <a href="https://autonomousagents.in" target="_blank"><img src="https://img.shields.io/badge/Platform-Autonomous%20Agents-0052CC?style=for-the-badge&logo=ai&logoColor=white" alt="Autonomous Agents" /></a>
+  <a href="https://freemcp.in" target="_blank"><img src="https://img.shields.io/badge/Registry-Free%20MCP-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Free MCP" /></a>
 </p>
 
 ---
 
 - 💻 I’m currently working on **AI-Led Cybersecurity strategies**
+- 🛠️ Building the open-source registry at [freemcp.in](https://freemcp.in)
+- 🧠 Designing multi-agent systems at [autonomousagents.in](https://autonomousagents.in)
 - 🔐 I’m learning and building in **DevSecOps, Secure SDLC, and cloud security**
 - 🌱 Actively exploring **CI/CD security, SBOM, SCA, SAST, and IAC hardening**
 - 💬 Ask me about **AI, PHP, JS, DevSecOps, CyberSecurity**
