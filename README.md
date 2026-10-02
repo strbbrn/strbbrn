@@ -11,6 +11,7 @@
 ---
 
 - 💻 I’m currently working on **AI-Led Cybersecurity strategies**
+- 🤹 AGI [agentagi.si](http://agentagi.si) [agenticagi.si](http://agenticagi.si)
 - 🛠️ Building the open-source registry at [freemcp.in](https://freemcp.in)
 - 🧠 Designing multi-agent systems at [autonomousagents.in](https://autonomousagents.in)
 - 🔐 I’m learning and building in **DevSecOps, Secure SDLC, and cloud security**
